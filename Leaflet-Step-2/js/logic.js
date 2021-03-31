@@ -126,7 +126,7 @@ function createMap(earthquakes) {
     zoom: mapZoomLevel,
     layers: [lightmap, earthquakes]
   });
-
+console.log(myMap.zoom)
   // Create a layer control
   // Pass in our baseMaps and overlayMaps
   // Add the layer control to the map
