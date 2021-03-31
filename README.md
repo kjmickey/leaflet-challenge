@@ -11,4 +11,4 @@ https://github.com/kjmickey/leaflet-challenge/blob/main/Leaflet-Step-2/js/logic.
 
 Leaflet-2 builds on the code in Leaflet-1 and adds different map styles as well as switches to turn tectonic plate and earthquake layers on and off.
 
-**Ignore the CSS and JS folders at the root.  They were scratch folders
+**Ignore the CSS and JS folders at the root.  They were scratch folders**
